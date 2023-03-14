@@ -1,0 +1,5 @@
+print("wwA" < "wwa")
+print(ord("A"))
+print(ord("a"))
+print(ord("ę"))
+print(ord("Ę"))
